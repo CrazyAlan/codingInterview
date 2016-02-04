@@ -1,6 +1,7 @@
 '''
 1. Using BFS as to use queue to traverse the graph
 2. Using DFS as to use stack to traverse the graph
+3. Dynamic programming is need to perform *****
 '''
 from collections import deque
 import copy
