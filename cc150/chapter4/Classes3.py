@@ -3,7 +3,7 @@
 '''
 
 
-class TreeNode():
+class TreeNode(object):
 	"""docstring for TreeNode"""
 	def __init__(self, value):
 		self.value = value
